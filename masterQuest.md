@@ -6,10 +6,6 @@ My treasure map to previous discovery.
 
 # Introduction to Computer Science
 
-Towards the end of my post-grad degree (Sep. 2021), we received an introduction to the underlying concepts behind blockchain ledgers. Instantly, I had to scratch the itch. The potential of smart-contracts has held my attention since.
-
-Through this exploration I have found a true passion with networks, computing, & programming.
-
 Included are some of the resources that have guided me, along with some early projects and areas of my exploraion.
 
 #### CS50
@@ -18,7 +14,7 @@ Included are some of the resources that have guided me, along with some early pr
 
 _"Harvard University's introduction to the intellectual enterprises of computer science and the art of programming."_
 
-I greatlt appreciate this course. It was extremly helpful for me to outline the broad components and themes, allowing me to begin to form a mental construct to build on.
+I greatly appreciate this course. It was extremly helpful. It provided an outline of the broad components/themes... allowing me to begin to form a mental construct to build on.
 
 #### Coursera - Charles Severance - Dr. Chuck
 
