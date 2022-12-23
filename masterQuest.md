@@ -80,7 +80,8 @@ _"So we beat on, boats against the current, borne back ceaselessly into the past
 [Visualize Data with Python](https://www.codecademy.com/learn/paths/visualize-data-with-python)
 
 - matplotlib, seaborne, pandas
-  [Build a Machine Learning Model with Python](https://www.codecademy.com/learn/paths/machine-learning)
+
+[Build a Machine Learning Model with Python](https://www.codecademy.com/learn/paths/machine-learning)
 
 - Machine Leanring
 
