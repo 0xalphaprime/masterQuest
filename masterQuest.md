@@ -57,34 +57,34 @@ _"So we beat on, boats against the current, borne back ceaselessly into the past
 [Learn Linux TV - Linux Commands for Beginners](https://www.youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ)
 [How to Share Files via SSHFS](https://www.youtube.com/watch?v=SY2AAQlnk2E&ab_channel=LearnLinuxTV)
 
-- OS => USB Linux Ubuntu Server & GUI
+- _OS => USB Linux Ubuntu Server & GUI_
 
-- Basic Linux Commands (LearnLinuxTV)
+- _Basic Linux Commands (LearnLinuxTV)_
 
-- SSH
+- _SSH_
 
-- UFW
+- _UFW_
 
-- Private Key Management
+- _Private Key Management_
 
-- 2FA
+- _2FA_
 
-## python
+## python - tools and projects
 
-- FCC
+- _FCC_
 
 **Codecademy**
 
 [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 [Build Connect Four Using Python](https://www.codecademy.com/learn/connect-four)
 [Visualize Data with Python](https://www.codecademy.com/learn/paths/visualize-data-with-python)
-[Build a Machine Learning Model with Python](https://www.codecademy.com/learn/paths/machine-learning)
 
-- Tech with Tim
+- matplotlib, seaborne, pandas
+  [Build a Machine Learning Model with Python](https://www.codecademy.com/learn/paths/machine-learning)
 
 - Machine Leanring
 
-- NEAT Deep Learning
+- NEAT Deep Learning - Pong (Tech with Tim)
 
 - Linear Regression
 
@@ -92,15 +92,11 @@ _"So we beat on, boats against the current, borne back ceaselessly into the past
 
 - Microsoft Learning
 
-- Pandas, Matplotlib, Seaborn...
+- Exercism
 
 ## javaScript
 
 - Alchemy University Intro to Java
-
-- Mosh
-
-- Exercism
 
 ## solidity & smart contract development
 
