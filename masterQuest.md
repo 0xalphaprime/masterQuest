@@ -4,7 +4,7 @@ _"The mind is restless, Krishna, impetuous, self-willed, hard to train: to maste
 
 My treasure map to previous discovery.
 
-# Introduction to Computer Science
+## Introduction to Computer Science
 
 Included are some of the resources that have guided me, along with some early projects and areas of my exploraion.
 
@@ -26,9 +26,9 @@ Important background and history of the various components/protocols involved in
 
 My first programming exposure.
 
-# Project 1 - Liftoff - Running A Rocketpool Node
+## Project 1 - Liftoff - Running A Rocketpool Node
 
-### Hardware
+#### Hardware
 
 [Patrick Collins - Setting Up NUC for ETH Node](https://www.youtube.com/watch?v=ZDADwYwzPAo&t=18s)
 
@@ -71,10 +71,6 @@ _"So we beat on, boats against the current, borne back ceaselessly into the past
 
 ## python - tools and projects
 
-- _FCC_
-
-**Codecademy**
-
 [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 [Build Connect Four Using Python](https://www.codecademy.com/learn/connect-four)
 [Visualize Data with Python](https://www.codecademy.com/learn/paths/visualize-data-with-python)
@@ -94,10 +90,6 @@ _"So we beat on, boats against the current, borne back ceaselessly into the past
 - Microsoft Learning
 
 - Exercism
-
-## javaScript
-
-- Alchemy University Intro to Java
 
 ## solidity & smart contract development
 
@@ -132,11 +124,6 @@ _"So we beat on, boats against the current, borne back ceaselessly into the past
 - anaconda
 
 - package managers
-  - apt
-  - npm
-  - brew
-  - yarn
-  - pip/pip3
 
 ## database management
 
